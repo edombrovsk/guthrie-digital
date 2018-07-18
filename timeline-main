@@ -25,7 +25,7 @@
 			</TouchContainer>
 			<TouchContainer mouseChildren="false" targetParent="true">
 			<Text text="{title}" y="520" textAlign="center" color="0x000000" fontSize="30" width="600" font="OpenSansRegular" selectable="false"/>
-			<Text text="{location}" y="580" textAlign="center" color="0x303030" fontSize="30" width="600" font="OpenSansRegular" selectable="false"/>
+			<Text text="{location}" y="580" textAlign="center" color="0x33944" fontSize="30" width="600" font="OpenSansRegular" selectable="false"/>
 			<Text text="{year}" y="620" textAlign="center" color="0x000000" fontSize="70" width="600" font="OpenSansRegular" selectable="false"/>
 			<Text text="{excerpt}" x="20" y="730" selectable="false" color="0x000000" fontSize="20" alpha="0.6" wordWrap="true" multiline="true" width="540" height="300" font="OpenSansRegular"/>
 			</TouchContainer>
@@ -39,7 +39,7 @@
 					<SWF alpha="0.5" x="15" y="8" color="0x000000" scale="1.6" classRef="org.openexhibits.assets.Info" />
 				</Container>	
 				<Container id="info-hit" alpha="0">
-					<Graphic id="info-bg-down" shape="circle" radius="20" lineStroke="0" color="0x666666"/>	
+					<Graphic id="info-bg-down" shape="circle" radius="20" lineStroke="0" color="0x817589"/>	
 				</Container>
 			</Button>
 				
