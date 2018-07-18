@@ -78,6 +78,17 @@ RendererData>
 	</museum>
 	
 	<museum>
+		<button-dispatch>down:passover-night</button-dispatch>
+		<panel-id>passover-night</panel-id>
+		<imagepath>library/images/passover-night.jpg</imagepath>
+		<imagepath-2>library/images/passover-night.jpgence, Boston</title>
+		<location>Brooklyn, NY</location>
+		<year>c. 1947</year>
+		<excerpt>This is one of several drawings Woody Guthrie made to accompany his mother in law Aliza Greenblatt’s poems.</excerpt>
+		<museum-text>The collection of poems which “Passover Night” belongs to, Ich Zing, was published in 1947. Several Guthrie sketches belong to this collection, but none were published.</museum-text>
+	</museum>
+	
+<museum>
 		<button-dispatch>down:smithsonian</button-dispatch>
 		<panel-id>smithsonian</panel-id>
 		<imagepath>library/images/smithsonian.jpg</imagepath>
