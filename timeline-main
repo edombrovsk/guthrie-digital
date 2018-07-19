@@ -89,16 +89,16 @@ RendererData>
 	</museum>
 	
 <museum>
-		<button-dispatch>down:smithsonian</button-dispatch>
-		<panel-id>smithsonian</panel-id>
-		<imagepath>library/images/smithsonian.jpg</imagepath>
-		<imagepath-2>library/images/smithsonian2.jpg</imagepath-2>
-		<title>Smithsonian Institution</title>
-		<location>Washington D.C.</location>
-		<year>1846</year>
-		<excerpt>The Smithsonian Institution, established in 1846 "for the increase and diffusion of knowledge", is a group of museums and research centers administered by the United States government.</excerpt>
-		<museum-text>Termed "the nation's attic" for its eclectic holdings of 137 million items, the Institution's Washington, D.C. nucleus of nineteen museums, nine research centers, and zoo—many of them historical or architectural landmarks—is the largest such complex in the world. Additional facilities are located in Arizona, Maryland, New York City, Virginia, Panama and elsewhere, and 168 other museums are Smithsonian affiliates.</museum-text>
+		<button-dispatch>down:ilsa-koch</button-dispatch>
+		<panel-id>ilsa-koch</panel-id>
+		<imagepath>library/images/ilsa-koch.jpg</imagepath>
+		<imagepath-2>library/images/ilsa-koch.jpg</title>
+		<location>Brooklyn, NY</location>
+		<year>1948</year>
+		<excerpt>This song was written in the aftermath of World War II and the atrocities of the Holocaust.</excerpt>
+		<museum-text>Ilse Koch (name misspelled by Guthrie), was the wife of commander of the Nazi concentration camps Buchenwald and Majdanek. Koch was one of the most prominent Nazis tried  by the U.S. Military in 1947. Therefore, Guthrie may have had these events on his mind at the time of the song’s writing.</museum-text>
 	</museum>
+
 	
 	<museum>
 		<button-dispatch>down:american</button-dispatch>
